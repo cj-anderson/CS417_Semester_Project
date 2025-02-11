@@ -28,8 +28,8 @@ cargo run filename-01.txt
 assuming the file provided data from 4 cores, output will be named in a similar fashion to:
 
 ```
-filename-core-00.txt
-filename-core-01.txt
-filename-core-02.txt
-filename-core-03.txt
+filename-01-core-00.txt
+filename-01-core-01.txt
+filename-01-core-02.txt
+filename-01-core-03.txt
 ```
