@@ -1,2 +1,7 @@
-# CS417_Semester_Project
+# CS417 Semester Project
  
+# Requirements
+
+ * Cargo
+
+# Sample Execution & Output
