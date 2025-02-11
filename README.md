@@ -1,4 +1,5 @@
 # CS417 Semester Project
+(Initial code retrieved from Professor Kennedy's CS417 Examples, located here: https://github.com/cstkennedy/cs417-examples/tree/master/SemesterProject-CPU-Temps)
  
 # Requirements
 
