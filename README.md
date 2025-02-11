@@ -31,7 +31,7 @@ Example Output:
 0 <= x < 30; y = 61.0000 + 0.6333 x; interpolation
 0 <= x <= 120; y = 67.4000 + 0.0567 x; least-squares
 ```
-# Sample Execution & Output
+# Sample Execution & Output (Currently Unfinished)
 
 If run without command line arguments, using 
 
